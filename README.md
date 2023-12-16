@@ -25,10 +25,8 @@ At SG Projects, we believe in the power of technology to transform businesses. O
 ## 💻 Technologies We Love
 
 - HTML5/CSS3
-- JavaScript (React, Angular, Vue)
+- JavaScript (React, Redux)
 - Node.js
-- Python (Django, Flask)
-- PHP (Laravel)
 - MySQL, MongoDB
 - AWS, Azure, Heroku
 
@@ -37,23 +35,17 @@ At SG Projects, we believe in the power of technology to transform businesses. O
 Interested in working with us? Feel free to reach out!
 
 - 🌐 [Visit our Website](https://www.sgprojects.com)
-- 📧 Email: [contact@sgprojects.com](mailto:contact@sgprojects.com)
-- 💬 [Chat with us on Slack](https://sg-projects.slack.com)
+- 📧 Email: [contact@sgprojects.com](mailto:sgprojects@gmail.com)
+- 💬 [Chat with us on Whatsapp](+91 8418072379)
 
 ## 🌟 Follow Us
 
 Stay updated on our latest projects and tech insights. Follow us on:
 
-- [GitHub](https://github.com/sg-projects)
-- [Twitter](https://twitter.com/sg_projects)
-- [LinkedIn](https://www.linkedin.com/company/sg-projects)
+- [GitHub](https://github.com/shivam12project)
+- [Twitter](https://x.com/sgwebprojects?t=E9c_fSllutt2nI_mxHbebg&s=09)
+- [LinkedIn](https://www.linkedin.com/in/sg-projects-0699742a5/)
 
-## 🚀 Projects Showcase
-
-Check out some of our featured projects:
-
-- [Project 1: Project Name](link-to-project1)
-- [Project 2: Project Name](link-to-project2)
 
 We look forward to collaborating with you and bringing your ideas to life!
 
